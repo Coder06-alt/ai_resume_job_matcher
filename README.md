@@ -237,17 +237,6 @@ Do not commit personal resumes, .env files, credentials, or other sensitive info
 🚀 **Live Application:**  
 https://ai-resume-job-matcher-alq2cazapx2fhzhonsqmrg.streamlit.app/
 
-## 🔗 GitHub Repository
-
-https://github.com/rinkitala-commits/ai-resume-job-matcher
-
----
-
-## 👩‍💻 Author
-
-### Jhumarani Tala
-
-B.Tech Data Science Student | Python Developer | Data Science & AI Enthusiast
 
 ## ⭐ Project
 
